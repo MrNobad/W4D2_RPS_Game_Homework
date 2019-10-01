@@ -3,6 +3,7 @@ class RPSGame
   # player_1 = :hand1
   # player_2 = :hand2
 
+
   def self.play(hand1, hand2)
     if hand1 == hand2
       return "DRAW"

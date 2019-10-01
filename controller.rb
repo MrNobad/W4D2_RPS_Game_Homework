@@ -20,6 +20,7 @@ get '/play' do
   erb ( :play )
 end
 
+
 get '/play/:hand1/:hand2' do
   @winner = RPSGame.play( params[:hand1].downcase, params[:hand2].downcase)
   erb( :play )
