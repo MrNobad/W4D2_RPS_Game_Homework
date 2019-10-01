@@ -1,0 +1,31 @@
+body {
+  font-family: 'Space Mono';
+  color: RED;
+  background-color: green;
+  text-align: left;
+  background-image: url(https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555447798/shape/mentalfloss/spock_0.jpg;)
+}
+h1 {
+  background-color: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  font-size: 40px
+}
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+p {
+  background-color: rgba(0, 0, 0, 0.75);
+  font-size: 16px
+}
+
+a {
+  text-align: left;
+  color: white;
+  opacity: 0.75;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.75);
+}
